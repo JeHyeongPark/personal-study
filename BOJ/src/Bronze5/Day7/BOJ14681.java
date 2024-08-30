@@ -1,3 +1,4 @@
+/* 사분면 고르기 */
 package Bronze5.Day7;
 
 import java.util.Scanner;

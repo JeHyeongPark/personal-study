@@ -1,3 +1,4 @@
+/* 등록 */
 package Bronze5.Day12;
 
 public class BOJ7287 {

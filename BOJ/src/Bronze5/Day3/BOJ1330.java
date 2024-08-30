@@ -1,3 +1,4 @@
+/* 두 수 비교하기 */
 package Bronze5.Day3;
 
 import java.util.Scanner;

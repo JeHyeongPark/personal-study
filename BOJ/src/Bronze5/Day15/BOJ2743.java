@@ -1,3 +1,4 @@
+/* 단어 길이 재기 */
 package Bronze5.Day15;
 
 import java.util.Scanner;

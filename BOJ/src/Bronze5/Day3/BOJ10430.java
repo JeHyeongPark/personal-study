@@ -1,3 +1,4 @@
+/* 나머지 */
 package Bronze5.Day3;
 
 import java.util.Scanner;

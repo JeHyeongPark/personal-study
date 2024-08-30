@@ -1,3 +1,4 @@
+/* A+B -7 */
 package Bronze5.Day8;
 
 import java.util.Scanner;

@@ -1,3 +1,4 @@
+/* 고양이 */
 package Bronze5.Day4;
 
 public class BOJ10171 {

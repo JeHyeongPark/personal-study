@@ -1,3 +1,4 @@
+/* 합 */
 package Bronze5.Day5;
 
 import java.util.Scanner;

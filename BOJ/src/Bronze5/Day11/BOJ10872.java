@@ -1,3 +1,4 @@
+/* 팩토리얼 */
 package Bronze5.Day11;
 
 import java.util.Scanner;

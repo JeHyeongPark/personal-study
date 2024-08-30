@@ -1,3 +1,4 @@
+/* 아스키 코드 */
 package Bronze5.Day10;
 
 import java.util.Scanner;

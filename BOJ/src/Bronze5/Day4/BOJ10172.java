@@ -1,3 +1,4 @@
+/* 개 */
 package Bronze5.Day4;
 
 public class BOJ10172 {

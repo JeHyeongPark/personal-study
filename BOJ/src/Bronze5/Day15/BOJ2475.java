@@ -1,3 +1,4 @@
+/* 검증수 */
 package Bronze5.Day15;
 
 import java.util.Scanner;

@@ -1,3 +1,4 @@
+/* We love kriii */
 package Bronze5.Day1;
 
 public class BOJ10718 {

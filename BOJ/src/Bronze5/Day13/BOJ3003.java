@@ -1,3 +1,4 @@
+/* 킹,퀸,룩,비숍,나이트,폰 */
 package Bronze5.Day13;
 
 import java.util.Scanner;

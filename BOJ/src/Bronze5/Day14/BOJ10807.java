@@ -1,3 +1,4 @@
+/* 개수 세기 */
 package Bronze5.Day14;
 
 import java.util.Scanner;

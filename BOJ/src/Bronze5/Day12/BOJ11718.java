@@ -1,3 +1,4 @@
+/* 그대로 출력하기 */
 package Bronze5.Day12;
 
 import java.util.Scanner;

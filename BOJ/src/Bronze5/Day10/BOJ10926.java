@@ -1,3 +1,4 @@
+/* ??! */
 package Bronze5.Day10;
 
 import java.util.Scanner;

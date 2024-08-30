@@ -1,3 +1,4 @@
+/* X보다 작은 수 */
 package Bronze5.Day7;
 
 import java.util.Scanner;
